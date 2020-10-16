@@ -79,14 +79,14 @@ Agora testamos se tudo foi instalado corretamente:
 
 ## Dotfiles
 
-* Vim (init.vim, comando de instalação do vim-plug)
-* ZShell (tema, zshrc)
-* Tilix (Tema, settings)
+* Tilix (Tema, settings) - Exportar as cores como um tema
 * Tmux (dotfiles)
+* ZShell (tema, zshrc)
+* Vim (init.vim, comando de instalação do vim-plug)
 * VS Code (settings.json, dica da extensão settings sync)
 
 ## Ainda será documentado
 
-* Falta ainda 
+* Falta ainda definir todos os arquivos (temas e plugins) imagem na introdução (linha 7), link do repositório da personalização do KDE (linha 54)
 * Instalador de programas automatizado (install.sh) (linguagens de programacao, zsh, chrome, vs code, tilix, spotify, e os outros aqui listados)
-* Meu site (talvez começar com o GitHub pages
+* Meu site (talvez começar com o GitHub pages)
