@@ -47,9 +47,16 @@ Configurar o sudo no Debian (não vem como padrão igual outras distros)
 
 Atualizar repositórios:
 
-`sudo apt update && sudo apt upgrade -y`
+```
+sudo apt update && sudo apt upgrade -y
 
-`sudo apt install git zsh curl neovim neofetch htop tilix tmux`
+sudo apt install git zsh curl neovim neofetch htop tilix tmux
+
+$ git config --global user.name "John Doe"
+
+$ git config --global user.email johndoe@example.com
+
+```
 
 Eu também personalizo o KDE como mostrado [neste repositório](https://www.google.com).
 
